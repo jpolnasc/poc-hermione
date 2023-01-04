@@ -1,0 +1,9 @@
+{
+  "project_name": "poc_hermione",
+  "env_path": "poc_hermione/poc_hermione_env",
+  "files_path": "../data",
+  "key": "<<<<key>>>>",
+  "user": "<<<<user>>>>",
+  "docs_url": "/api-docs",
+  "use_redocs": true
+}
